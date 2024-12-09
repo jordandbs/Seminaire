@@ -1,0 +1,12 @@
+{
+	"users" : [
+		{
+			"login" : "btssio",
+			"mdp" : "btssio"
+		},
+		{
+			"login" : "admin",
+			"mdp" : "admin"
+		}
+	]
+}

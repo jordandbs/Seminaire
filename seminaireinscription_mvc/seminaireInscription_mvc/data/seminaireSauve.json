@@ -1,0 +1,81 @@
+{
+    "seminaire": {
+        "intitule": "Seminaire du 12 octobre 2222, la ville et ses enjeux",
+        "creneau": [
+            {
+                "heure": "10h",
+                "conference": [
+                    {
+                        "id": 1,
+                        "description": "Enjeux \u00e9mergents, enjeux \u00e0 construire pour la recherche urbaine",
+                        "intervenant": "Alain  Lecastel",
+                        "salle": "salle Mozart",
+                        "nbplaces": 50,
+                        "participants": [
+                            {
+                                "nom": "Roberto",
+                                "prenom": "Jean",
+                                "profession": "Directeur de l'urbanisme",
+                                "ville": "Rennes",
+                                "mail": "jroberto@free.fr"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "description": "L\u2019activit\u00e9 urbaine et l\u2019environnement: de nouveaux mod\u00e8les \u00e0 construire",
+                        "intervenant": "Yves Renard",
+                        "salle": "salle Berlioz",
+                        "nbplaces": 60,
+                        "participants": []
+                    },
+                    {
+                        "id": 3,
+                        "description": "Des infrastructures et des services urbains pour une ville \u00e9conome?",
+                        "intervenant": "Anne-Marie Brelinsky",
+                        "salle": "salle Beethoven",
+                        "nbplaces": 30,
+                        "participants": []
+                    }
+                ]
+            },
+            {
+                "heure": "11h30",
+                "conference": [
+                    {
+                        "id": 4,
+                        "description": "M\u00e9tropoles et am\u00e9nagements m\u00e9tropolitains",
+                        "intervenant": "Joseph Demongeot",
+                        "salle": "salle Berlioz",
+                        "nbplaces": 50,
+                        "participants": []
+                    },
+                    {
+                        "id": 5,
+                        "description": "La ville pour tous",
+                        "intervenant": "Marc Touati",
+                        "salle": "salle Mozart",
+                        "nbplaces": 50,
+                        "participants": [
+                            {
+                                "nom": "Roberto",
+                                "prenom": "Jean",
+                                "profession": "Directeur de l'urbanisme",
+                                "ville": "Rennes",
+                                "mail": "jroberto@free.fr"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "description": "Quelles dynamiques d\u2019innovations pour les villes ?",
+                        "intervenant": "Herv\u00e9 Bachelard",
+                        "salle": "salle Beethoven",
+                        "nbplaces": 60,
+                        "participants": []
+                    }
+                ]
+            }
+        ]
+    }
+}

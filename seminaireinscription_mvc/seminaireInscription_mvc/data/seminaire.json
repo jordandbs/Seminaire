@@ -1,0 +1,429 @@
+{
+    "seminaire": {
+        "intitule": "Seminaire du 12 octobre 2222, la ville et ses enjeux",
+        "creneau": [
+            {
+                "heure": "10h",
+                "conference": [
+                    {
+                        "id": 1,
+                        "description": "Enjeux \u00e9mergents, enjeux \u00e0 construire pour la recherche urbaine",
+                        "intervenant": "Alain  Lecastel",
+                        "salle": "salle Mozart",
+                        "nbplaces": 50,
+                        "participants": [
+                            {
+                                "nom": "Roberto",
+                                "prenom": "Jean",
+                                "profession": "Directeur de l'urbanisme",
+                                "ville": "Rennes",
+                                "mail": "jroberto@free.fr"
+                            },
+                            {
+                                "nom": "zefz",
+                                "prenom": "fzf",
+                                "profession": "Instructeur de permis de construire",
+                                "ville": "zfzef",
+                                "mail": "zfzef@ze.com",
+                                "choix": [
+                                    "1",
+                                    "5",
+                                    "7",
+                                    "9"
+                                ]
+                            },
+                            {
+                                "nom": "zefz",
+                                "prenom": "fzf",
+                                "profession": "Instructeur de permis de construire",
+                                "ville": "zfzef",
+                                "mail": "zfzef@ze.com",
+                                "choix": [
+                                    "1",
+                                    "4",
+                                    "7",
+                                    "9"
+                                ]
+                            },
+                            {
+                                "nom": "test",
+                                "prenom": "test",
+                                "profession": "Directeur de l",
+                                "ville": "test",
+                                "mail": "test@mail.fr",
+                                "choix": [
+                                    "1",
+                                    "4",
+                                    "7",
+                                    "9"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "description": "L\u2019activit\u00e9 urbaine et l\u2019environnement: de nouveaux mod\u00e8les \u00e0 construire",
+                        "intervenant": "Yves Renard",
+                        "salle": "salle Berlioz",
+                        "nbplaces": 60,
+                        "participants": [
+                            {
+                                "nom": "pierre",
+                                "prenom": "jenny",
+                                "profession": "Chef de projet urbanisme",
+                                "ville": "limoges",
+                                "mail": "pjenny@gmail.com",
+                                "choix": [
+                                    "2",
+                                    "5",
+                                    "8",
+                                    "10"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "description": "Des infrastructures et des services urbains pour une ville \u00e9conome?",
+                        "intervenant": "Anne-Marie Brelinsky",
+                        "salle": "salle Beethoven",
+                        "nbplaces": 30,
+                        "participants": [
+                            {
+                                "nom": "aaa",
+                                "prenom": "aaa",
+                                "profession": "Directeur de l",
+                                "ville": "aaa",
+                                "mail": "aaa@aaa.fr",
+                                "choix": [
+                                    "3",
+                                    "4"
+                                ]
+                            },
+                            {
+                                "nom": "aaa",
+                                "prenom": "aaa",
+                                "profession": "Directeur de l",
+                                "ville": "aaa",
+                                "mail": "aaa@aaa.fr",
+                                "choix": [
+                                    "3",
+                                    "4",
+                                    "8",
+                                    "9"
+                                ]
+                            },
+                            {
+                                "nom": "emilie",
+                                "prenom": "la princesse",
+                                "profession": "Chef de projet urbanisme",
+                                "ville": "glandon",
+                                "mail": "jtm@gmail.com",
+                                "choix": [
+                                    "3"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "heure": "11h30",
+                "conference": [
+                    {
+                        "id": 4,
+                        "description": "M\u00e9tropoles et am\u00e9nagements m\u00e9tropolitains",
+                        "intervenant": "Joseph Demongeot",
+                        "salle": "salle Berlioz",
+                        "nbplaces": 50,
+                        "participants": [
+                            {
+                                "nom": "zefz",
+                                "prenom": "fzf",
+                                "profession": "Instructeur de permis de construire",
+                                "ville": "zfzef",
+                                "mail": "zfzef@ze.com",
+                                "choix": [
+                                    "1",
+                                    "4",
+                                    "7",
+                                    "9"
+                                ]
+                            },
+                            {
+                                "nom": "aaa",
+                                "prenom": "aaa",
+                                "profession": "Directeur de l",
+                                "ville": "aaa",
+                                "mail": "aaa@aaa.fr",
+                                "choix": [
+                                    "3",
+                                    "4"
+                                ]
+                            },
+                            {
+                                "nom": "aaa",
+                                "prenom": "aaa",
+                                "profession": "Directeur de l",
+                                "ville": "aaa",
+                                "mail": "aaa@aaa.fr",
+                                "choix": [
+                                    "3",
+                                    "4",
+                                    "8",
+                                    "9"
+                                ]
+                            },
+                            {
+                                "nom": "test",
+                                "prenom": "test",
+                                "profession": "Directeur de l",
+                                "ville": "test",
+                                "mail": "test@mail.fr",
+                                "choix": [
+                                    "1",
+                                    "4",
+                                    "7",
+                                    "9"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "description": "La ville pour tous",
+                        "intervenant": "Marc Touati",
+                        "salle": "salle Mozart",
+                        "nbplaces": 50,
+                        "participants": [
+                            {
+                                "nom": "Roberto",
+                                "prenom": "Jean",
+                                "profession": "Directeur de l'urbanisme",
+                                "ville": "Rennes",
+                                "mail": "jroberto@free.fr"
+                            },
+                            {
+                                "nom": "zefz",
+                                "prenom": "fzf",
+                                "profession": "Instructeur de permis de construire",
+                                "ville": "zfzef",
+                                "mail": "zfzef@ze.com",
+                                "choix": [
+                                    "1",
+                                    "5",
+                                    "7",
+                                    "9"
+                                ]
+                            },
+                            {
+                                "nom": "pierre",
+                                "prenom": "jenny",
+                                "profession": "Chef de projet urbanisme",
+                                "ville": "limoges",
+                                "mail": "pjenny@gmail.com",
+                                "choix": [
+                                    "2",
+                                    "5",
+                                    "8",
+                                    "10"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "description": "Quelles dynamiques d\u2019innovations pour les villes ?",
+                        "intervenant": "Herv\u00e9 Bachelard",
+                        "salle": "salle Beethoven",
+                        "nbplaces": 60,
+                        "participants": []
+                    }
+                ]
+            },
+            {
+                "heure": "14h",
+                "conference": [
+                    {
+                        "id": 7,
+                        "description": "Urbanisme et environnement: des exemples en Europe",
+                        "intervenant": "Yann Berlinne",
+                        "salle": "salle Berlioz",
+                        "nbplaces": 30,
+                        "participants": [
+                            {
+                                "nom": "zefz",
+                                "prenom": "fzf",
+                                "profession": "Instructeur de permis de construire",
+                                "ville": "zfzef",
+                                "mail": "zfzef@ze.com",
+                                "choix": [
+                                    "1",
+                                    "5",
+                                    "7",
+                                    "9"
+                                ]
+                            },
+                            {
+                                "nom": "zefz",
+                                "prenom": "fzf",
+                                "profession": "Instructeur de permis de construire",
+                                "ville": "zfzef",
+                                "mail": "zfzef@ze.com",
+                                "choix": [
+                                    "1",
+                                    "4",
+                                    "7",
+                                    "9"
+                                ]
+                            },
+                            {
+                                "nom": "test",
+                                "prenom": "test",
+                                "profession": "Directeur de l",
+                                "ville": "test",
+                                "mail": "test@mail.fr",
+                                "choix": [
+                                    "1",
+                                    "4",
+                                    "7",
+                                    "9"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 8,
+                        "description": "Nouvelles vuln\u00e9rabilit\u00e9s, nouvelles gouvernances",
+                        "intervenant": "Hamed Djalaoui",
+                        "salle": "salle Beethoven",
+                        "nbplaces": 30,
+                        "participants": [
+                            {
+                                "nom": "aaa",
+                                "prenom": "aaa",
+                                "profession": "Directeur de l",
+                                "ville": "aaa",
+                                "mail": "aaa@aaa.fr",
+                                "choix": [
+                                    "3",
+                                    "4",
+                                    "8",
+                                    "9"
+                                ]
+                            },
+                            {
+                                "nom": "pierre",
+                                "prenom": "jenny",
+                                "profession": "Chef de projet urbanisme",
+                                "ville": "limoges",
+                                "mail": "pjenny@gmail.com",
+                                "choix": [
+                                    "2",
+                                    "5",
+                                    "8",
+                                    "10"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "heure": "16h",
+                "conference": [
+                    {
+                        "id": 9,
+                        "description": "La ville et ses p\u00e9riph\u00e9ries, quelles relations ?",
+                        "intervenant": "Omar Azdine",
+                        "salle": "salle Berlioz",
+                        "nbplaces": 30,
+                        "participants": [
+                            {
+                                "nom": "Roberto",
+                                "prenom": "Jean",
+                                "profession": "Directeur de l'urbanisme",
+                                "ville": "Rennes",
+                                "mail": "jroberto@free.fr"
+                            },
+                            {
+                                "nom": "zefz",
+                                "prenom": "fzf",
+                                "profession": "Instructeur de permis de construire",
+                                "ville": "zfzef",
+                                "mail": "zfzef@ze.com",
+                                "choix": [
+                                    "1",
+                                    "5",
+                                    "7",
+                                    "9"
+                                ]
+                            },
+                            {
+                                "nom": "zefz",
+                                "prenom": "fzf",
+                                "profession": "Instructeur de permis de construire",
+                                "ville": "zfzef",
+                                "mail": "zfzef@ze.com",
+                                "choix": [
+                                    "1",
+                                    "4",
+                                    "7",
+                                    "9"
+                                ]
+                            },
+                            {
+                                "nom": "aaa",
+                                "prenom": "aaa",
+                                "profession": "Directeur de l",
+                                "ville": "aaa",
+                                "mail": "aaa@aaa.fr",
+                                "choix": [
+                                    "3",
+                                    "4",
+                                    "8",
+                                    "9"
+                                ]
+                            },
+                            {
+                                "nom": "test",
+                                "prenom": "test",
+                                "profession": "Directeur de l",
+                                "ville": "test",
+                                "mail": "test@mail.fr",
+                                "choix": [
+                                    "1",
+                                    "4",
+                                    "7",
+                                    "9"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "description": "La ville, quel avenir, quelles contraintes ?",
+                        "intervenant": "Sophie Radon",
+                        "salle": "salle Beethoven",
+                        "nbplaces": 30,
+                        "participants": [
+                            {
+                                "nom": "pierre",
+                                "prenom": "jenny",
+                                "profession": "Chef de projet urbanisme",
+                                "ville": "limoges",
+                                "mail": "pjenny@gmail.com",
+                                "choix": [
+                                    "2",
+                                    "5",
+                                    "8",
+                                    "10"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
